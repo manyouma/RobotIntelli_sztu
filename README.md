@@ -1,6 +1,6 @@
 #  机器人与具身技能技术
 
-欢迎来到深圳技术大学 **IBW0009机器人与具身技能技术** 的课程主页!  
+欢迎来到深圳技术大学 **IBW0009机器人与具身技能技术 （AI微专业）** 的课程主页!  
 
 ### 课程通知
 - **[2026-3-6]**   课程网站发布。   <br>
@@ -23,7 +23,7 @@
 ### 课程资料
 | 周 | 课程序号 | 理论课程 | 实验内容 |
 |---|----------|-------------------|------------------------|
-| 01 (3月7日)|第1讲 | 具身智能基础[幻灯片](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Lecture%20slides/slidesContinuouslyUpdated/L1-Basic%20concepts.pdf) |  OpenAI Gym入门 [实验](https://github.com/manyouma/DRL_sztu/blob/main/labs/Lab01_frozenLake_intro.ipynb)
+| 01 (3月7日)|第1讲 | 具身智能基础 [幻灯片](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Lecture%20slides/slidesContinuouslyUpdated/L1-Basic%20concepts.pdf) |  OpenAI Gym入门 [实验](https://github.com/manyouma/DRL_sztu/blob/main/labs/Lab01_frozenLake_intro.ipynb)
 | 02 (3月14日)|第2讲| 状态价值与贝尔曼方程 | 冰冻湖环境 I |
 | 03 (3月21日)|第3讲| 贝尔曼最优方程 | 冰冻湖环境 II |
 | 04 (3月28日)|第4讲| 价值迭代与策略迭代 | 冰冻湖环境 III |
