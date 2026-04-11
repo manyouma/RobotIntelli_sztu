@@ -23,12 +23,12 @@
 ### 课程资料
 | 周 | 课程序号 | 理论课程 | 实验内容 |
 |---|----------|-------------------|------------------------|
-| 01 (3月7日)|第1讲 | 具身智能基础[幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD_%E7%AC%AC%E4%B8%80%E7%AB%A0_%E5%AE%8C%E6%95%B4%E7%89%88.pdf) 强化学习基础 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L1-%E7%BF%BB%E8%AF%91.pdf)|  OpenAI Gym入门 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab01_frozenLake_intro.ipynb)
-| 02 (3月14日)|第2讲| 状态价值与贝尔曼方程 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L2-%E7%BF%BB%E8%AF%91.pdf)| 冰冻湖环境 I [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab02_frozenLake_MDP.ipynb)|
-| 03 (3月21日)|第3讲| 贝尔曼最优方程 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L3-%E7%BF%BB%E8%AF%91.pdf) | 冰冻湖环境 II [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab03_frozenLake_optimal.ipynb) |
-| 04 (3月28日)|第4讲| 价值迭代与策略迭代 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L4-%E7%BF%BB%E8%AF%91.pdf) | 冰冻湖环境 III [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab04_frozenLake_VI_PI.ipynb)|
+| 01 (3月7日)|第1讲 | 具身智能基础[幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD_%E7%AC%AC%E4%B8%80%E7%AB%A0_%E5%AE%8C%E6%95%B4%E7%89%88.pdf) 强化学习基础 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L1.pdf)|  OpenAI Gym入门 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab01_frozenLake_intro.ipynb)
+| 02 (3月14日)|第2讲| 状态价值与贝尔曼方程 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L2.pdf)| 冰冻湖环境 I [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab02_frozenLake_MDP.ipynb)|
+| 03 (3月21日)|第3讲| 贝尔曼最优方程 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L3.pdf) | 冰冻湖环境 II [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab03_frozenLake_optimal.ipynb) |
+| 04 (3月28日)|第4讲| 价值迭代与策略迭代 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L4.pdf) | 冰冻湖环境 III [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab04_frozenLake_VI_PI.ipynb)|
 | 05 (4月4日)| 放假|  |  |
-| 06 (4月11日)|第5讲| 蒙特卡洛方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L5-%E7%BF%BB%E8%AF%91.pdf) | 冰冻湖环境 IV [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab05_frozenLake_MC.ipynb) |
+| 06 (4月11日)|第5讲| 蒙特卡洛方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L5.pdf) | 冰冻湖环境 IV [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab05_frozenLake_MC.ipynb) |
 | 07 (4月18日)|第6讲| 随机近似算法 | 神经网络入门 |
 | 08 (4月25日)|第7讲| 时序差分方法 | CarPole环境 |
 | 09 (5月2日)| 放假| |  |
