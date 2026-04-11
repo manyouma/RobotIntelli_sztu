@@ -28,7 +28,7 @@
 | 03 (3月21日)|第3讲| 贝尔曼最优方程 [幻灯片](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Lecture%20slides/slidesContinuouslyUpdated/L3-Bellman%20optimality%20equation.pdf) [翻译](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L3-%E8%B4%9D%E5%B0%94%E6%9B%BC%E6%9C%80%E4%BC%98%E6%96%B9%E7%A8%8B_%E4%B8%AD%E6%96%87%E7%89%88.pdf) | 冰冻湖环境 II [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab03_frozenLake_optimal.ipynb) |
 | 04 (3月28日)|第4讲| 价值迭代与策略迭代 [幻灯片](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Lecture%20slides/slidesContinuouslyUpdated/L4-Value%20iteration%20and%20policy%20iteration.pdf) [翻译](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L4_%E7%BF%BB%E8%AF%91.pdf) | 冰冻湖环境 III [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab04_frozenLake_VI_PI.ipynb)|
 | 05 (4月4日)| 放假|  |  |
-| 06 (4月11日)|第5讲| 蒙特卡洛方法 | CarPole环境 |
+| 06 (4月11日)|第5讲| 蒙特卡洛方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/5_Monte_Carlo_method_%E4%B8%AD%E6%96%87.pdf) | 冰冻湖环境 IV [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab05_frozenLake_MC.ipynb) |
 | 07 (4月18日)|第6讲| 随机近似算法 | 神经网络入门 |
 | 08 (4月25日)|第7讲| 时序差分方法 | CarPole环境 |
 | 09 (5月2日)| 放假| |  |
