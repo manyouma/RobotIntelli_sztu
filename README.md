@@ -29,7 +29,7 @@
 | 04 (3月28日)|第4讲| 价值迭代与策略迭代 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L4.pdf) | 冰冻湖环境 III [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab04_frozenLake_VI_PI.ipynb)|
 | 05 (4月4日)| 放假|  |  |
 | 06 (4月11日)|第5讲| 蒙特卡洛方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L5.pdf) | 冰冻湖环境 IV [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab05_frozenLake_MC.ipynb) |
-| 07 (4月18日)|第6讲| 随机近似算法 | 神经网络入门 |
+| 07 (4月18日)|第6讲| 随机近似算法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L6.pdf) | 神经网络入门 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab06_StochasticApproximation.ipynb) |
 | 08 (4月25日)|第7讲| 时序差分方法 | CarPole环境 |
 | 09 (5月2日)| 放假| |  |
 | 10 (5月9日)| 调休|  |  |
