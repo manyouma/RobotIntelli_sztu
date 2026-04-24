@@ -30,7 +30,7 @@
 | 05 (4月4日)| 放假|  |  |
 | 06 (4月11日)|第5讲| 蒙特卡洛方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L5.pdf) | 冰冻湖环境 IV [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab05_frozenLake_MC.ipynb) |
 | 07 (4月18日)|第6讲| 随机近似算法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L6.pdf) | 神经网络入门 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab06_StochasticApproximation.ipynb) |
-| 08 (4月25日)|第7讲| 时序差分方法 | CarPole环境 |
+| 08 (4月25日)|第7讲| 时序差分方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L7.pdf) | CarPole环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab07_TD_cartpole.ipynb) |
 | 09 (5月2日)| 放假| |  |
 | 10 (5月9日)| 调休|  |  |
 | 11 (5月16日)|第8讲| 基于价值的方法 | Atari环境 |
