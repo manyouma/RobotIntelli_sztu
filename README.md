@@ -33,8 +33,8 @@
 | 08 (4月25日)|第7讲| 时序差分方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L7.pdf) | CarPole环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab07_TD_cartpole.ipynb) |
 | 09 (5月2日)| 放假| |  |
 | 10 (5月9日)| 调休|  |  |
-| 11 (5月16日)|第8讲| 基于价值的方法 | Atari环境 |
-| 12 (5月23日)|第9讲| 基于策略的方法 | Atari环境 |
+| 11 (5月16日)|第8讲| 基于价值的方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L8.pdf) | Atari环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab08_atari_DQN.ipynb) [讲解](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/L8_DQN_tutorial.pdf)|
+| 12 (5月23日)|第9讲| 基于策略的方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L9.pdf) [策略梯度推导](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L9_policy_gradient_derivation.pdf) | REINFORCE [实验]()|
 | 13 (5月30日)|第10讲| Actor-Critic 方法与 PPO | Mujoco环境 I |
 | 14 (6月6日)|第11讲| 	DDPG, TD3, 和SAC方法 | Mujoco环境 II |
 | 15 (6月13日)|第12讲|  机器人强化学习 | Mujoco环境 III |
