@@ -35,8 +35,8 @@
 | 10 (5月9日)| 调休|  |  |
 | 11 (5月16日)|第8讲| 基于价值的方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L8.pdf) | Atari环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab08_atari_DQN.ipynb) |
 | 12 (5月23日)|第9讲| 基于策略的方法 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L9.pdf) [策略梯度推导](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L9_policy_gradient_derivation.pdf) |  [讲解](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/L8_DQN_tutorial.pdf) |
-| 13 (5月30日)|第10讲| Actor-Critic方法[幻灯片1](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L10.pdf)，PPO，与DPO [幻灯片2](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L10_PPO.pdf) | REINFORCE Cartpole 环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab09_REINFORCEcartpole.ipynb) |
-| 14 (6月6日)|第11讲| 	机器人控制基础 | Mujoco环境 I |
+| 13 (5月30日)|第10讲| Actor-Critic方法[幻灯片1](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L10.pdf)与PPO[幻灯片2](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L10_PPO.pdf) | REINFORCE Cartpole 环境 [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab09_REINFORCEcartpole.ipynb) |
+| 14 (6月6日)|第11讲| PPO与DPO [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L10_PPO.pdf) | Mujoco环境 I |
 | 15 (6月13日)|第12讲|  机器人强化学习 | Mujoco环境 II |
 | 16 (6月20日)|放假|  |  |
 | 17 (6月27日)|第13讲| 模仿学习与扩散策略 | 智能体路径规划 |
