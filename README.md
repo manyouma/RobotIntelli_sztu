@@ -39,7 +39,7 @@
 | 14 (6月6日)|第11讲| 机器人学习入门 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L11.pdf) | Mujoco环境 DDPG [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab10_DDPGmojoco.ipynb) |
 | 15 (6月13日)|第12讲|  变分推断与生成式策略 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L12.pdf) | Mujoco环境 PPO [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab11_StableBaseline.ipynb) |
 | 16 (6月20日)|放假|  |  |
-| 17 (6月27日)|第13讲| 扩散模型与扩散策略 | LeRobot机械臂 ACT |
+| 17 (6月27日)|第13讲| 扩散模型与扩散策略 [幻灯片](https://github.com/manyouma/RobotIntelli_sztu/blob/main/lectures/L12.pdf) | LeRobot机械臂 ACT [实验](https://github.com/manyouma/RobotIntelli_sztu/blob/main/labs/Lab12_actRoboticArm.ipynb) |
 | 18 (7月1日)|第14讲| 通用型机器人策略 | LeRobot机械臂 DP |
 
 
